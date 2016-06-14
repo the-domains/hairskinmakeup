@@ -1,0 +1,28 @@
+name: hairskinmakeup
+favicon: null
+layout_spectrum: 0.36794824386015534
+typography_spectrum: 0.9388850189279765
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9866618877276778
+  lightness: 0.531828282866627
+  saturation: 0.8882361457217485
+  rhythmicContrast: 0.9218512587249279
+purpose: []
